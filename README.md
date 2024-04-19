@@ -7,6 +7,7 @@ create an application to smooth out this process.
  - Allow easy loading for grid-based texture atlases
  - loading and saving hitbox data in a separate file
  - create hitboxes by dragging mouse
+ - delete hitboxes by clicking on the number on the right panel
  - up to 5 colors for hitboxes
 
 ## Screenshots
